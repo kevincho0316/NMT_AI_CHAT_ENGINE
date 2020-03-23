@@ -1,0 +1,2 @@
+# NMT_AI_CHAT_ENGINE
+NMT를 활용한 AI CHATBOT 엔진입니다. 
