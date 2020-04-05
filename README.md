@@ -7,7 +7,7 @@ nmt-chatbot
 Setup
 -------------
 
- 1. ```$ git clone --recursive https://github.com/daniel-kukiela/nmt-chatbot```
+ 1. ```$ https://github.com/kevincho0316/NMT_AI_CHAT_ENGINE.git```
  2. ```$ cd nmt-chatbot```
  3. ```$ cd setup``` 
  4. ```$ python prepare_data.py``` ...Run setup/prepare_data.py - new folder called "data" will be created with prepared training data
